@@ -20,6 +20,18 @@ Inspired by classics like *SimCity*, the game emphasizes infrastructure, commuti
 
 ---
 
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+Request to join the development Discord.
+Fork the repository
+Create your feature branch (git checkout -b amazing-feature)
+Commit your changes (git commit -m 'Add some amazing feature')
+Push to the branch (git push origin amazing-feature)
+Open a Pull Request
+
+---
+
 ## Development
 - Built in **JavaScript/HTML5 Canvas**
 - Dark-theme UI inspired by modern dashboards
